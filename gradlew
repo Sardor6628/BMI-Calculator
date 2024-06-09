@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 #
 # Copyright 2015 the original author or authors.
 #
@@ -17,8 +17,8 @@
 # limitations under the License.
 #
 
-=======
->>>>>>> 5428ae08b054eba7bfde28f2912f029b02e54b12
+#=======
+#>>>>>>> 5428ae08b054eba7bfde28f2912f029b02e54b12
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
