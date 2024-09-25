@@ -6,12 +6,12 @@ plugins {
 }
 
 android {
-    compileSdk 33
+    compileSdk 31
 
     defaultConfig {
         applicationId "com.tharun.bmicalculator"
         minSdk 21
-        targetSdk 33
+        targetSdk 31
         versionCode 1
         versionName "1.0"
 
@@ -56,8 +56,8 @@ dependencies {
 }
     sonarqube {
         properties {
-            property "sonar.projectName", "bmi_calculator_java"
-            property "sonar.projectKey", "bmi_calculator_java"
+            property "sonar.projectName", "bmi_calculator_kotlin"
+            property "sonar.projectKey", "bmi_calculator_kotlin"
             property "sonar.test.inclusions", "**/*Test*/**"
             property "sonar.sourceEncoding", "UTF-8"
             property "sonar.sources", "src/main/java"
